@@ -1,2 +1,1 @@
-# i-am-rich-app
-an iOS app
+An iOS app
